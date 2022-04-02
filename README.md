@@ -1,5 +1,5 @@
 # New-project
-This is DEBI FinTech project for python course
+### This is DEBI FinTech project for python course.
 
 ## Name: Alaa Adel Abd El-Fattah Mohamed
 
