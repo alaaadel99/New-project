@@ -5,3 +5,4 @@
 
 ## Project Description:
 This project contains 2 files : <br> 1- string_ops.py  <br>  2- main.py
+The first file is a module containing three different functions: &#8226; the first function "find_nth_occurrence" tries to find the nth occurence of a substing in a certain string given by the user. The second function "match_string" takes two strings from the user and detect if there are characters in the second string could be replaced in the first string so that the two strings match each other or not. The third function "
