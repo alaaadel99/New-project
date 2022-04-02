@@ -4,5 +4,5 @@
 ## Name: Alaa Adel Abd El-Fattah Mohamed
 
 ## Project Description:
-This project contains 2 files : 1- string_ops.py /n
+This project contains 2 files : 1- string_ops.py                                                                                                                                                     
                                 2- main.py
